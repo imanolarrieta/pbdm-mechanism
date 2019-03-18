@@ -3,6 +3,7 @@
 - I Arrieta-Ibarra, J Ugander (2018)
 [A Personalized BDM Mechanism for Efficient Market Intervention Experiments](https://dl.acm.org/citation.cfm?id=3219220) Proc. 19th ACM Conf. on Economics and Computation (EC). ([slides](https://stanford.edu/~jugander/papers/ec18-pbdm-slides.pdf))
 
+Abstract:
 The BDM mechanism, introduced by Becker, DeGroot, and Marschack in the 1960’s, employs a second-price
 auction against a random bidder to elicit the willingness to pay of a consumer. The BDM mechanism has
 been recently used as a treatment assignment mechanism in order to estimate the treatment effects of policy
