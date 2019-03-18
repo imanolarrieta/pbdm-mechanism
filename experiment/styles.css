@@ -1,0 +1,26 @@
+body{
+	font-family: sans-serif;
+	background-color: #D8E9F2;
+}
+
+h4, .ulelement, #instructions, #questionText, .summaryText {
+	font-size: 16px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: 500;
+	line-height: 1.0;
+	color: inherit;
+	margin-bottom: 10px;
+}
+
+.space {
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+
+.ulelement {
+	line-height: 1.3em;
+}
+
+.well {
+	width: 320px;
+}

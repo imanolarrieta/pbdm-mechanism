@@ -1,0 +1,133 @@
+{
+    "userIp": "::1",
+    "params": [],
+    "progress": "setup",
+    "n_phases": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "email_order": {
+        "phase1": [
+            [
+                1,
+                "ham"
+            ],
+            [
+                1,
+                "spam"
+            ]
+        ],
+        "phase2": [
+            [
+                1,
+                "ham"
+            ],
+            [
+                1,
+                "spam"
+            ]
+        ],
+        "phase3": [
+            [
+                1,
+                "spam"
+            ],
+            [
+                1,
+                "ham"
+            ]
+        ],
+        "phase4": [
+            [
+                1,
+                "ham"
+            ],
+            [
+                1,
+                "spam"
+            ]
+        ]
+    },
+    "credits_per_task": 10,
+    "browserInfo": {
+        "cookiesEnabled": true,
+        "plugins": [
+            "Widevine Content Decryption Module",
+            "Shockwave Flash",
+            "Chrome PDF Viewer",
+            "Native Client",
+            "Chrome PDF Viewer"
+        ],
+        "appName": "Netscape",
+        "appCodeName": "Mozilla",
+        "browserName": "Gecko",
+        "browserVersion": "5.0 (Macintosh; Intel Mac OS X 10_12_0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.95 Safari\/537.36",
+        "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_12_0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.95 Safari\/537.36",
+        "platform": "MacIntel",
+        "language": "en-US",
+        "javaEnabled": false,
+        "windowHeight": 687,
+        "windowWidth": 648
+    },
+    "stages": [],
+    "connection": {
+        "speedBps": "11536660.51"
+    },
+    "geo": {
+        "ip": "::1",
+        "country_code": "",
+        "country_name": "",
+        "region_code": "",
+        "region_name": "",
+        "city": "",
+        "zip_code": "",
+        "time_zone": "",
+        "latitude": 0,
+        "longitude": 0,
+        "metro_code": 0
+    },
+    "screenInfo": {
+        "availHeight": 805,
+        "availWidth": 1440,
+        "colorDepth": 24,
+        "height": 900,
+        "width": 1440,
+        "pixelDepth": 24
+    },
+    "credits": {
+        "real": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "given": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "timer": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "no_timer": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "correct": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "totalCorrect": 0,
+        "totalCredits": 0
+    }
+}
