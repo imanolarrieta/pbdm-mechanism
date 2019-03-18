@@ -1,4 +1,4 @@
-# Personalized BDM Mechanism for Effcient Market Intervention Experiments
+# A Personalized BDM Mechanism for Effcient Market Intervention Experiments
 
 - I Arrieta-Ibarra, J Ugander (2018)
 [A Personalized BDM Mechanism for Efficient Market Intervention Experiments](https://dl.acm.org/citation.cfm?id=3219220) Proc. 19th ACM Conf. on Economics and Computation (EC). ([slides](https://stanford.edu/~jugander/papers/ec18-pbdm-slides.pdf))
