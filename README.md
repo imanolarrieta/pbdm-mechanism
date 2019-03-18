@@ -20,3 +20,9 @@ The experiment folder contains the files that create the causal-learning website
 # Analysis
 
 The src folder contains the analysis from the data collected from the experiment. 
+
+# Paper Link
+https://dl.acm.org/citation.cfm?id=3219220
+
+# Slides
+http://stanford.edu/~jugander/papers/ec18-pbdm-slides.pdf
