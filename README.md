@@ -19,7 +19,7 @@ resource allocation when running experiments while maintaining statistical corre
 
 # Experiment
 
-The experiment folder contains the files that create the causal-learning website used for running the experiment in Mechanical Turk
+The experiment folder contains the files that create the causal-learning website used for running the experiment in Mechanical Turk.
 
 # Analysis
 
